@@ -8,6 +8,7 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+        <script src="https://kit.fontawesome.com/ec6bb0f298.js" crossorigin="anonymous"></script>
 
         <!-- Styles -->
         <style>
